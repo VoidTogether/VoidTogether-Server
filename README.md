@@ -28,6 +28,9 @@ If you have any issues, reinstall your Server, and try deleting the `consoleModu
 
 You can type `help` into the console to see a few available commands that can be run administratively.
 
+## Installing the Server on Pterodactyl
+You can use the egg from this [repository](https://github.com/xela-the-proto/Xela-s-pterodactyl-eggs) and install it on the panel
+
 ## Configuring a Server
 Configuring a server is quite similar to games like SCP: Secret Laboratory and Minecraft. 
 
